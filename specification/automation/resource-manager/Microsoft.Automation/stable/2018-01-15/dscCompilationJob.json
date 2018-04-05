@@ -428,7 +428,7 @@
           "format": "date-time",
           "readOnly": true,
           "description": "Gets the end time of the job.",
-          "x-nullable": false
+          "x-nullable": true
         },
         "exception": {
           "type": "string",
