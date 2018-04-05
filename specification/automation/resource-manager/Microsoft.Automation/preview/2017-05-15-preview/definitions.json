@@ -384,7 +384,7 @@
         "lastModifiedTime": {
           "type": "string",
           "format": "date-time",
-          "x-nullable": false,
+          "x-nullable": true,
           "readOnly": true,
           "description": "The last modified time of the job."
         },
