@@ -447,7 +447,7 @@
           "format": "date-time",
           "readOnly": true,
           "description": "Gets the last status modified time of the job.",
-          "x-nullable": false
+          "x-nullable": true
         },
         "parameters": {
           "type": "object",
