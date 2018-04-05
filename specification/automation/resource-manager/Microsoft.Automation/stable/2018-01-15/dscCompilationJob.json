@@ -421,7 +421,7 @@
           "format": "date-time",
           "readOnly": true,
           "description": "Gets the start time of the job.",
-          "x-nullable": false
+          "x-nullable": true
         },
         "endTime": {
           "type": "string",
