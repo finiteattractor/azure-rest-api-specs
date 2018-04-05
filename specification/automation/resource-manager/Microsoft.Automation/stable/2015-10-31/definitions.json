@@ -2063,7 +2063,8 @@
         "jobId": {
           "type": "string",
           "format": "uuid",
-          "description": "Gets or sets the id of the job."
+          "description": "Gets or sets the id of the job.",
+          "x-nullable": false
         },
         "creationTime": {
           "type": "string",
