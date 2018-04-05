@@ -1501,7 +1501,8 @@
         "nextRunOffsetMinutes": {
           "type": "number",
           "format": "double",
-          "description": "Gets or sets the next run time's offset in minutes."
+          "description": "Gets or sets the next run time's offset in minutes.",
+          "x-nullable": false
         },
         "interval": {
           "type": "integer",
