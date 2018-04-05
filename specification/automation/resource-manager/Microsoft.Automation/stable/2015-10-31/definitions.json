@@ -1106,7 +1106,8 @@
           "type": "string",
           "format": "uuid",
           "readOnly": true,
-          "description": "Gets the id of the job."
+          "description": "Gets the id of the job.",
+          "x-nullable": false
         },
         "creationTime": {
           "type": "string",
