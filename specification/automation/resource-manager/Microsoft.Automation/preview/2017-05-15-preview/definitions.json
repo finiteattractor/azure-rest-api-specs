@@ -77,7 +77,8 @@
           "type": "array",
           "items": {
             "type": "integer",
-            "format": "int32"
+            "format": "int32",
+            "x-nullable": false
           },
           "description": "Days of the month that the job should execute on. Must be between 1 and 31."
         },
