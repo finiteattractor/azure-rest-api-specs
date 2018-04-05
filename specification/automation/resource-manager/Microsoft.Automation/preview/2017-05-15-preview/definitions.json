@@ -1484,7 +1484,8 @@
         "expiryTimeOffsetMinutes": {
           "type": "number",
           "format": "double",
-          "description": "Gets or sets the expiry time's offset in minutes."
+          "description": "Gets or sets the expiry time's offset in minutes.",
+          "x-nullable": false
         },
         "isEnabled": {
           "type": "boolean",
