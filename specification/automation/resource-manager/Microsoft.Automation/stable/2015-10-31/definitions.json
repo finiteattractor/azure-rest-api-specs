@@ -512,7 +512,8 @@
         "isExportable": {
           "type": "boolean",
           "readOnly": true,
-          "description": "Gets the is exportable flag of the certificate."
+          "description": "Gets the is exportable flag of the certificate.",
+          "x-nullable": false
         },
         "creationTime": {
           "type": "string",
